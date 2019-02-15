@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ola Mundo Fatec Ipi Tarde</string>
+    <string name="welcome">Bem vindo ao desenvolvimento de aplicações Android</string>
+    <string name="deitel_logo">Joinha duplo do inseto do Deitel</string>
+</resources>
